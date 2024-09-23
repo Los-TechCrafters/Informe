@@ -1,5 +1,5 @@
 # Informe TP
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.001.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 001](https://github.com/user-attachments/assets/3da95336-1072-4bdf-84c5-d1e323ec139f)
 
 **Curso:** Arquitectura de Software Emergentes
 
@@ -204,7 +204,7 @@ Carrera de Ingeniería de Software
 
 Actualmente ando estudiando la carrera de Ingeniería de Software. Mi pasión por la programación empezó a temprana edad, donde actualmente me permite investigar, analizar y solucionar problemas de la vida cotidiana. Mi objetivo es desarrollar software de calidad que den soluciones innovadoras a población. Cabe enfatizar que busco la colaboración activa en equipo para llegar a tener éxito en las metas o proyectos. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.002.jpeg)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 002](https://github.com/user-attachments/assets/e34c0e2e-77a5-4b7a-9b1b-8a55969ca6f7)
 
 **Leonardo Taype Fernandez**
 
@@ -214,7 +214,7 @@ Carrera de Ingeniería de Software
 
 Me considero una persona comprometida y responsable. Me gusta aprender y plantearme retos. Estudio la carrera de ingeniería de software, siempre me ha gustado interactuar con la computadora y ahora puedo ser un profesional haciendo lo que me gusta. Tengo conocimientos en desarrollo web, móvil y desktop 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.003.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 003](https://github.com/user-attachments/assets/29c7d6af-5a78-4df7-b502-3abea37cd5dd)
 
 **Leonardo Jesús Ferreyra Carnaval**
 
@@ -224,7 +224,7 @@ Carrera de Ingeniería de Software
 
 Mi camino académico ha estado marcado por un fuerte interés en desentrañar los desafíos más complejos a través de la programación y la tecnología. Mi objetivo es diseñar soluciones innovadoras que tengan un impacto significativo en nuestra sociedad. Además de mis estudios, también me dedico a proyectos personales. Creo firmemente en el poder de la colaboración y siempre busco oportunidades para trabajar en equipo y aprender de los demás.
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.004.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 004](https://github.com/user-attachments/assets/ec8f78c8-cc40-4fae-ab56-5f8b6a838edd)
 
 **Jhan Clinton Antonio Salazar**   
 
@@ -232,7 +232,7 @@ Mi camino académico ha estado marcado por un fuerte interés en desentrañar lo
 
 Acerca de: Soy estudiante de la carrera de Ingeniería de Software. En mis tiempos libres me gusta escuchar música de varios géneros y hacer deporte con mis amigos. Además, disfruto de aprender cosas nuevas y trabajar en proyectos que me permitan desarrollar soluciones tecnológicas creativas. Me gusta enfrentar retos que involucren tanto el trabajo en equipo como la mejora continua de mis habilidades técnicas y personales.
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.005.jpeg)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 005](https://github.com/user-attachments/assets/9da97804-d816-4df4-9255-eda207fd24f9)
 
 
 ## <a name="_o1kfk5jg7qqy"></a>**1.2. Solution Profile**
