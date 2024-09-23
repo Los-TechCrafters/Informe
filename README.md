@@ -164,3 +164,31 @@ A continuación, se construirán los User Personas de cada segmento objetivo de 
 | Configurar y gestionar dispositivos desde la app   | High            | Often          |
 | Integración con otros dispositivos inteligentes    | Medium           | Always         |
 | Ver historial de alertas y movimientos             | Medium          | Often          |
+
+### 2.3.2 Empathy Mapping
+
+ ### Empathy Map: Alejandro Fernández
+ <p style="text-align: center;">
+<img src="https://media.discordapp.net/attachments/1227123248030941219/1287614109709500558/image.png?ex=66f22f96&is=66f0de16&hm=b18edc9545b6e4ee660b599614245512922affd8b8e1cf6cfdd85003f28845a5&=&format=webp&quality=lossless&width=594&height=411"
+   style="width: 80%; max-width: 800px;"> </p>
+
+ ### 2.2.1 As-is Scenario Mapping
+
+#### Segmento 1: Dueños de Hogar
+ <p style="text-align: center;">
+<img src="https://media.discordapp.net/attachments/1227123248030941219/1287614166932258816/image.png?ex=66f22fa4&is=66f0de24&hm=b547e74e2125401af2bb41986e20bcb8d50c0b435ac820c8d26d7e07107fbb29&=&format=webp&quality=lossless&width=747&height=411"
+   style="width: 80%; max-width: 800px;"> </p>
+
+## 2.4  Ubiquitous Language.
+| Término en Inglés                    | Término en Español                     | Definición                                                                                                                                                                   |
+|--------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Augmented Reality (AR)               | Realidad Aumentada (RA)               | Tecnología que superpone información digital (como imágenes, sonidos, o datos) sobre el entorno físico real a través de dispositivos como smartphones o gafas AR.          |
+| Intrusion Detection System            | Sistema de Detección de Intrusos      | Sistema de seguridad que utiliza sensores y cámaras para detectar movimientos o actividades inusuales dentro de un área protegida, alertando al usuario de posibles intrusiones. |
+| Security Sensors                      | Sensores de Seguridad                  | Dispositivos instalados en diferentes partes del hogar que detectan movimientos, cambios de temperatura, sonidos, o presencia de personas para identificar posibles amenazas.   |
+| Motion Patterns                       | Patrones de Movimiento                 | Secuencias o hábitos de movimiento dentro del hogar que son analizados por la IA para determinar si una actividad es normal o sospechosa.                                    |
+| Smart Alerts                          | Alertas Inteligentes                   | Notificaciones automáticas enviadas al usuario que han sido filtradas y priorizadas por un sistema de IA basado en la relevancia de la amenaza o anomalía detectada.        |
+| Security Recommendations              | Recomendaciones de Seguridad           | Sugerencias generadas por el sistema basadas en el análisis de los patrones de movimiento y la ubicación de los dispositivos, para mejorar la seguridad del hogar.           |
+| Camera Layout Visualization           | Visualización de Disposición de Cámaras| Funcionalidad que permite ver en tiempo real, a través de AR, la ubicación y el ángulo de cobertura de las cámaras de seguridad instaladas en el hogar.                     |
+
+
+
