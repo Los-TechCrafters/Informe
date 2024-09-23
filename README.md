@@ -304,7 +304,7 @@ Los segmentos objetivo de Aegis Vision incluyen:
 
 Propietarios de hogares inteligentes: Personas que ya han integrado dispositivos inteligentes y buscan mejorar la seguridad con tecnologías avanzadas como RA e IA.
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.006.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 006](https://github.com/user-attachments/assets/c599e16d-bd68-43f7-b388-507373ec99ed)
 
 
 
@@ -412,15 +412,14 @@ Perfil: Consumidores tecnológicos que ya han integrado dispositivos inteligente
 ### <a name="_ufnnqi9v9jn3"></a>	**2.2.2 Registro de entrevistas**
 `		`**Entrevista 1:**
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.007.png)
-
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 007](https://github.com/user-attachments/assets/48cab406-8d86-4641-bb91-f08b002f92e8)
 **Andrea Huancas -** Estudiante de Derecho en la UCSUR
 
 Arq Emergentes LinkEntrevista Leonardo.mp4
 
 **Entrevista 2:**
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.008.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 008](https://github.com/user-attachments/assets/186b7f1d-6a06-4eba-b924-26f3b82d7f54)
 
 **Angello Olortegui**
 
@@ -435,7 +434,7 @@ Arq Emergentes LinkEntrevista Leonardo.mp4
 
 **Entrevista 3:**
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.009.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 009](https://github.com/user-attachments/assets/c2161881-4564-450e-b100-3922bd64618c)
 
 
 
@@ -461,7 +460,7 @@ Arq Emergentes LinkEntrevista Leonardo.mp4
 
 **Entrevista 4:**
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.010.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 010](https://github.com/user-attachments/assets/d21e8465-1fac-4d89-ae83-2751bee8b2a7)
 
 **Leonel Alfaro Cumpa**
 
@@ -506,7 +505,7 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 **User Persona 1 - Dueño de Hogar**
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.011.jpeg)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 011](https://github.com/user-attachments/assets/209add53-4e87-4206-89b3-4491fd5b0f78)
 ### <a name="_b7yq94wixmbb"></a>**	
 ### <a name="_6243ll1yk3mk"></a>**2.3.2 User task Matrix**
 
@@ -544,13 +543,13 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 **Empathy Map: Alejandro Fernández**
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.012.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 012](https://github.com/user-attachments/assets/b39e891d-b03a-43dd-ae43-a54519c3d596)
 
 ### <a name="_dtk35c93ltae"></a>	**2.2.1 As-is Scenario Mapping**
 
 Segmento 1: Dueños de Hogar
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.013.png)
+[Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 013](https://github.com/user-attachments/assets/074527a6-da7f-444a-a856-a23f10342786)
 
 ## <a name="_qfy1vnuac1ui"></a>**2.4  Ubiquitous Language.** 
 
@@ -842,7 +841,7 @@ Segmento 1: Dueños de Hogar
   - Entonces el sistema notifica al usuario.
 ## <a name="_sq0ajr7daprb"></a>**3.3. Impact Mapping.** 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.014.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 014](https://github.com/user-attachments/assets/97285ac8-5408-4d67-bde1-f3d8c24ba686)
 
 
 
@@ -936,7 +935,7 @@ Este backlog contiene los factores clave que deben guiar las decisiones arquitec
 
 ## <a name="_1sv82uc42440"></a>**4.2. Strategic-Level Domain-Driven Design.**
 ### <a name="_tk4kcqhgqwvw"></a>**4.2.1. EventStorming.**
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.015.jpeg)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 015](https://github.com/user-attachments/assets/84db079b-6e26-4777-b4b0-06dc43dff2ef)
 
 ### <a name="_nelavj1jkn2o"></a>**4.2.2. Candidate Context Discovery.**
 1. Gestión de Usuarios
@@ -949,24 +948,24 @@ Este backlog contiene los factores clave que deben guiar las decisiones arquitec
 1. Gestión de Suscripciones
 
 ### <a name="_7sh1gfqbu3nr"></a>**4.2.3. Domain Message Flows Modeling.**
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.016.jpeg)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 016](https://github.com/user-attachments/assets/5253fdbc-506f-4d18-b21c-c65cdb37169f)
 
 ### <a name="_ojenzg6htc8v"></a>**4.2.4. Bounded Context Canvases.**
 1. Gestión de Usuarios
 
-   ![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.017.jpeg)
+   ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 017](https://github.com/user-attachments/assets/925ac3c3-355a-46c9-85eb-56fb8b8a4fc1)
 
 1. Configuración de Dispositivos
 
-   ![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.018.jpeg)
+   ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 018](https://github.com/user-attachments/assets/950e7e2b-04a0-4c4d-a3a8-55f46abdbd65)
 
 1. Monitoreo y Detección
 
-   ![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.019.jpeg)
+   ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 019](https://github.com/user-attachments/assets/582402cf-2caf-40ae-bd8c-60942d0dad74)
 
 1. Análisis Predictivo
 
-   ![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.020.jpeg)
+   ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 020](https://github.com/user-attachments/assets/b987d25c-5695-49a0-9d6c-1a31576bafac)
 
 
 
@@ -980,11 +979,11 @@ Este backlog contiene los factores clave que deben guiar las decisiones arquitec
 
 1. Notificaciones
 
-   ![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.021.jpeg)
+   ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 021](https://github.com/user-attachments/assets/03c99ea5-5e40-4455-8b28-0361f6c3fb3f)
 
 1. Visualización RA
 
-   ![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.022.jpeg)
+   ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 022](https://github.com/user-attachments/assets/910e1804-24e1-4f93-9ac9-6c8b66ef26f2)
 
 
 
@@ -997,45 +996,31 @@ Este backlog contiene los factores clave que deben guiar las decisiones arquitec
 
 1. Entrenamiento de IA
 
-   ![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.023.jpeg)
+   ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 023](https://github.com/user-attachments/assets/37d3c56c-9f0c-4600-80b5-6d56ffbd86f4)
 
 1. Gestión de Suscripciones
 
-   ![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.024.jpeg)
+   ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 024](https://github.com/user-attachments/assets/82fc7a24-6340-4ae1-8675-f88e70436f94)
 
 ### <a name="_lf4931o39sme"></a>**4.2.5. Context Mapping.**
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.025.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 025](https://github.com/user-attachments/assets/8877b774-da36-45a0-89d9-d67cd19878e3)
 
 ## <a name="_jhyuyk89nvca"></a>**4.3. Software Architecture.**
-<a name="_q7xs6mfdzwxf"></a>**4.3.1. Software Architecture System Landscape Diagram.
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.026.jpeg)**
+<a name="_q7xs6mfdzwxf"></a>**4.3.1. Software Architecture System Landscape Diagram.**
+
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 026](https://github.com/user-attachments/assets/68c0728a-bcbc-4337-b66f-da51b9fabe45)
+
 ------------------------------------------------------------------------------------
 
 ### <a name="_k8rxufjurpw2"></a>**4.3.1. Software Architecture Context Level Diagrams.**
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.027.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 027](https://github.com/user-attachments/assets/d981e4fc-dbec-4c70-9976-89d69006d2bc)
+
 ### <a name="_g7737xnx3j1i"></a>**4.3.2. Software Architecture Container Level Diagrams.**
 ![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.028.png)
 
-### <a name="_nh697trw5ah6"></a>**4.3.3. Software Architecture Deployment Diagrams![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.029.png)**
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
+### <a name="_nh697trw5ah6"></a>**4.3.3. Software Architecture Deployment Diagrams![]**
 
-
-
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 028](https://github.com/user-attachments/assets/192743e4-c0dc-4762-ac7c-1fd3e907798e)
 
 <a name="_z7mqfkd1lit0"></a><a name="_fyc88ciro1mq"></a><a name="_5hzk202a2uid"></a><a name="_1bar82njh4ii"></a><a name="_j78ksa4yr9v4"></a><a name="_b6ixbo1enuqw"></a><a name="_om0s5bqjfozl"></a><a name="_i446ozauxct6"></a><a name="_1zc8d37ranj6"></a><a name="_mmw7kls2r5aw"></a><a name="_865av4qjmuzk"></a><a name="_dawoj74m8em2"></a><a name="_flmg6a6bg7sh"></a><a name="_xcrlxhq91wcp"></a><a name="_peus3pybb5sl"></a><a name="_sto4g2iwzxkl"></a>**Capítulo V: Tactical-Level Software Design.** 
 
@@ -1108,15 +1093,16 @@ EmailService: Envío de correos electrónicos (por ejemplo, para confirmar el re
 MessagingService: Implementación de mensajería para eventos como UserRegistered o UserLoggedIn.
 
 ### <a name="_p4ty1makiupz"></a>**5.1.6. Bounded Context Software Architecture Component Level Diagrams.** 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.030.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 030](https://github.com/user-attachments/assets/e3e6ceb1-ca43-4d2a-a825-bdd6a60073f5)
+
 ### <a name="_xabi11iecsy6"></a>**5.1.7. Bounded Context Software Architecture Code Level Diagrams.** 
 5\.1.7.1. Bounded Context Domain Layer Class Diagrams. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.031.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 031](https://github.com/user-attachments/assets/3ead375d-03c1-45e6-9082-6f86b43379a3)
 
 5\.1.7.2. Bounded Context Database Design Diagram. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.032.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 032](https://github.com/user-attachments/assets/ed6ebcef-3336-45d7-88a6-eb2fb5ada630)
 
 ## <a name="_vhe58bvi4vq"></a>**5.2. Bounded Context Profile :** 
 ### <a name="_9t963kj6je0y"></a>**5.2.1. Domain Layer.** 
@@ -1172,15 +1158,17 @@ ProfileUpdatedEventHandler: Dispara eventos cuando un perfil es actualizado.
 UserProfileRepositoryImpl: Implementa el acceso a la base de datos para los perfiles de usuario.
 
 ### <a name="_h4guvw644m9u"></a>**5.2.6. Bounded Context Software Architecture Component Level Diagrams.**
-### ![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.033.png)<a name="_8zphzb9i6gj7"></a>** 
+### ** 
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 033](https://github.com/user-attachments/assets/eea56aa9-e27a-4a5e-b3b5-d408c77bd650)
+
 ### <a name="_2fgy2b4sl35w"></a>**5.2.7. Bounded Context Software Architecture Code Level Diagrams.** 
 5\.2.7.1. Bounded Context Domain Layer Class Diagrams. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.034.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 034](https://github.com/user-attachments/assets/22d55aa5-eeb3-472b-b533-8888b2aac6ed)
 
 5\.2.7.2. Bounded Context Database Design Diagram. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.035.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 035](https://github.com/user-attachments/assets/6b2167f8-9e5f-442c-b9ab-3f6043881d55)
 
 ## <a name="_b9yaz6etri3o"></a>**5.3. Bounded Context Subscription & Payment:** 
 ### <a name="_k99ggsyw6tuj"></a>**5.3.1. Domain Layer.** 
@@ -1226,15 +1214,17 @@ UpgradeSubscriptionCommandHandler: Maneja las actualizaciones de suscripción.
 PaymentService: Interfaz con sistemas de pago externos como Stripe o PayPal.
 
 ### <a name="_kblax7ydx5b7"></a>**5.3.6. Bounded Context Software Architecture Component Level Diagrams.** 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.036.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 036](https://github.com/user-attachments/assets/7a8c4fae-009a-4c83-8cb4-6cf6f36aa143)
+
 ### <a name="_z7pjn1h4ttk9"></a>**5.3.7. Bounded Context Software Architecture Code Level Diagrams.** 
 5\.3.7.1. Bounded Context Domain Layer Class Diagrams. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.037.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 037](https://github.com/user-attachments/assets/44674a99-7dc4-4061-a245-48a1bb4e48a4)
+
 
 5\.3.7.2. Bounded Context Database Design Diagram. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.038.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 038](https://github.com/user-attachments/assets/d764a439-dbf6-4d9e-8245-2067b37f4ec6)
 
 ## <a name="_brnaowlxxbrk"></a>**5.4. Bounded Context Configuration & Planning:** 
 ### <a name="_fidocwar0r69"></a>**5.4.1. Domain Layer.** 
@@ -1287,15 +1277,15 @@ PaymentService: Interfaz con sistemas de pago externos como Stripe o PayPal.
 
 - MessagingService: Implementación para notificar cambios en las configuraciones.
 ### <a name="_iqiou6oesdpt"></a>**5.4.6. Bounded Context Software Architecture Component Level Diagrams.** 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.039.jpeg)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 039](https://github.com/user-attachments/assets/1d5c0664-4f7e-431d-bee0-a3537a9c0c3d)
 ### <a name="_fa0merv7n0uk"></a>**5.4.7. Bounded Context Software Architecture Code Level Diagrams.** 
 5\.4.7.1. Bounded Context Domain Layer Class Diagrams. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.040.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 040](https://github.com/user-attachments/assets/d7bdffe3-fb34-4022-b376-0ddd6d04f891)
 
 5\.4.7.2. Bounded Context Database Design Diagram. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.041.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 041](https://github.com/user-attachments/assets/f01459d0-e019-4c4f-a773-f3894040d4f2)
 
 ## <a name="_9starbi7oh9d"></a>**5.5. Bounded Context Service Execution:** 
 ### <a name="_3vzh0sgk5jco"></a>**5.5.1. Domain Layer.** 
@@ -1346,15 +1336,15 @@ Endpoints:
 
 - *PatternDetectionService*: Utiliza IA para analizar los patrones de movimiento.
 ### <a name="_gh5rq9i8led3"></a>**5..5. Bounded Context Software Architecture Component Level Diagrams.** 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.042.jpeg)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 042](https://github.com/user-attachments/assets/005c65ea-d89f-490c-b5a3-8658a70c5d68)
 ### <a name="_8rs6prioacbu"></a>**5.5.7. Bounded Context Software Architecture Code Level Diagrams.** 
 5\.5.7.1. Bounded Context Domain Layer Class Diagrams. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.043.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 043](https://github.com/user-attachments/assets/4e93183d-428f-45d8-8f0c-d21bc57c40a7)
 
 5\.5.7.2. Bounded Context Database Design Diagram. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.044.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 044](https://github.com/user-attachments/assets/883acae2-6979-4360-aced-da32fa136b66)
 
 ## <a name="_x43hwtqjn667"></a>**5.6. Bounded Context Operation:** 
 ### <a name="_xm8sd2rxwwvx"></a>**5.6.1. Domain Layer.** 
@@ -1404,17 +1394,17 @@ Endpoints:
 
 - NotificationService: Notifica a los usuarios cuando se disparan alertas.
 ### <a name="_honbvuphkygo"></a>**5.6.6. Bounded Context Software Architecture Component Level Diagrams.** 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.045.jpeg)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 045](https://github.com/user-attachments/assets/03ac4900-994e-45ad-9b8d-0e3cfcb8469c)
 
 
 ### <a name="_x2yd5f4q8juq"></a>**5.6.7. Bounded Context Software Architecture Code Level Diagrams.** 
 5\.6.7.1. Bounded Context Domain Layer Class Diagrams. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.046.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 046](https://github.com/user-attachments/assets/3f5bcad9-0e1a-4d91-b312-da4987d3dd5a)
 
 5\.6.7.2. Bounded Context Database Design Diagram. 
 
-![](Aspose.Words.00d9a324-7786-4229-8307-f3d2f53facbd.047.png)
+![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 047](https://github.com/user-attachments/assets/0698c8dc-b7fc-46ac-a2fb-4fa4b712f886)
 
 **VI: Solution UX Design** 
 
