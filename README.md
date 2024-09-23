@@ -44,7 +44,7 @@ Grupo 4
 
 **Tabla de Contenidos**
 
-[**1. Capítulo I: Introducción	5**](#_ex0tfqt49q82)**
+[**1. Capítulo I: Introducción	5**](#_ex0tfqt49q82)
 
 [1.1. Startup Profile	5](#_byk5xoargg1e)
 
