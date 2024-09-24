@@ -1347,6 +1347,84 @@ Endpoints:
 **6.1. Style Guidelines.** 
 
 **6.1.1. General Style Guidelines.**
+En esta sección, se presentarán de forma estructurada los estilos y recursos que emplearemos en la creación de nuestra solución.  
+**Brand Overview**   
+En el Perú, la importancia de contar con dispositivos tecnológicos en buen estado es cada vez más evidente, ya sea para fines de estudio, trabajo u otros propósitos. A menudo, el servicio ofrecido a las personas que necesitan reparar sus dispositivos tecnológicos no cumple con las expectativas. Es cierto que no todos los técnicos brindan un servicio deficiente, pero aquellos que son realmente competentes no son ampliamente reconocidos, lo que resulta en una falta de conexión entre los clientes y los técnicos expertos, afectando a ambos grupos.
+
+Nuestra solución, TechXPrime, surge como respuesta a esta desconexión entre los dos segmentos. Nuestro equipo ha desarrollado un producto diseñado para conectar de manera efectiva a clientes y técnicos expertos, permitiendo que ambos logren sus objetivos de manera satisfactoria.
+
+**Brand name**
+
+El nombre que hemos elegido para nuestra solución es TechXPrime. Esta elección se basa en la observación de la creciente necesidad de las personas de acceder a un servicio técnico de calidad. Los técnicos son quienes proporcionan este servicio relacionado con la "tecnología". Por lo tanto, la combinación de "tecnología" y la entrega de un servicio excepcional, representado por "Prime", son elementos fundamentales de nuestro software. Además, al utilizar el inglés como idioma en el nombre, buscamos comunicar su universalidad y hacerlo más atractivo para los usuarios.
+
+A continuación, se present:a el Logo
+
+
+
+![](https://lh4.googleusercontent.com/5kaLW_TdMrLaw-xGIISUC0r-yIuLdqwVPnrgWqTTfdZdL4GYdGCxetQW5-chrRj7-k7D-9vKewUdg4RGGiJsxgF9gctrGxOgLxPiOPHKqSjHdmcz_-DE16f-FIuB6_sAHlZd5yq-NtrSlNInr32hvuw)
+
+
+**Typography**
+
+La elección de la fuente tipográfica desempeña un papel importante al dividir los diversos contenidos de nuestras páginas en diferentes niveles. Además, si estas fuentes son amigables y bien diseñadas, pueden atraer visualmente al usuario y servir como guía a lo largo de nuestra interfaz.
+
+En el caso de TechXPrime, nuestro equipo optó por utilizar la fuente Montserrat debido a su legibilidad tanto en la lectura como en la escritura. La tipografía en TechXPrime se estructura en cuatro niveles: encabezados (headings), cuerpo (body), botones (buttons) y enlaces (links).
+
+![](https://lh5.googleusercontent.com/k5jqSviWhGVmaIIWyCwx8PLAqb_7uGW-nVvM8ulm337h96jAo4T1H4Yp7Wm3x9V6UjYKK6M1Duj_RaxJg680GhS7q1-O5Zd8CT6qEID6Ibg63TNr5F7LNwJDq-qOjqoBzcoGJvQHsMMA9Vk6z9y0OTs)
+
+**Colors**  
+ 
+
+Seleccionar los colores adecuados es una parte fundamental del proceso de diseño, ya que los colores elegidos transmiten la esencia de lo que ofrecemos como servicio. En nuestro caso, hemos elegido el azul como color principal y un tono verde azulado como color secundario. Además, hemos definido una paleta de colores adicionales que indicarán al usuario los estados o acciones que ocurren mientras interactúa con nuestra aplicación.
+
+![](https://lh4.googleusercontent.com/uKdYcCebEhBCIVWr2gFdqHrADYNezPvQ0zdZQxRw1MBtR9F6gqhmPUhDSgj07l8KzaJ44bd-s0MKGDPjyN_Qtum8I59ATg0LqFZNoVPYOCWYnQyOWM-UcXF9KE_7XBNvzgkrV07aRqHxUWhXHTgPipo)
+
+Color Primario Azul:  
+ 
+
+El color primario que hemos elegido es el azul. El azul se asocia comúnmente con la tecnología y el bienestar, y hemos seleccionado este color para transmitir a los usuarios la naturaleza de nuestra aplicación web. Además, el azul es conocido por generar serenidad y calma en las personas, lo que es coherente con nuestro objetivo de proporcionar una experiencia tranquila y agradable para los usuarios.
+
+![](https://lh4.googleusercontent.com/uDokTiXt8NE2vbRiO2C-XtcsbKfsdFUH_yHyVVOmdrFGR4Gdu_rBoEl5DbfZ7-v1oUC1cPuokKnm556QtgMz1qUhFuIRk3yq0jpFLxCyAZjfH8nXFNjWoV4vuc6T3P6DlbeY3aZdP-e0DvKbHF6y_IY)
+
+Color secundario morado:  
+ 
+
+Hemos seleccionado el color morado como nuestra elección secundaria debido a su capacidad para transmitir impacto, sabiduría, creatividad y una cierta sensación de magia a los usuarios. Además, este color evoca confianza, lo cual es de suma importancia para la imagen que deseamos proyectar a través de nuestra aplicación.
+
+![](https://lh3.googleusercontent.com/B2rSVMQ6pd8RDTc1C9GDw6N0YwdQkjhhaVVWthjY8Jd0fMRzKWPefqW8RLnH2BH2DpMP5zSK8cEno0tnwdrT8eUwfTd4NBWdZ4fp2aN0Ehu3zmEbIxAlndC_FaeyNXD8Uhz1uu31hRtXOtZmFFN8EiA)
+
+Color estado : Rojo -(Acción inconclusa o incorrecta)
+
+Hemos asignado el color rojo a la categoría de "estado" en nuestra aplicación, con el propósito de señalar acciones incompletas o incorrectas por parte del usuario. La elección del rojo se basa en la idea de que este color resaltará de inmediato las acciones realizadas de manera errónea, permitiendo al usuario identificarlas de forma rápida y efectiva.
+
+![](https://lh3.googleusercontent.com/RvRDOqTIBBpKDa5eStbLVbLjwf1OIt_EaEMPoTmTl-8n_gzHm08PjDlCreBE0IDQbx75Xd1ilIq1U8sPJx5-R3LPEQMdAX6_AZLz6iU8Yfd35Ur2TtHXphny5TMtIUxw2D1FcSa4HOJk7w9OtNpvSks)
+
+Color estado: Verde (Acción exitosa)
+
+Hemos optado por utilizar el color verde en la categoría de "estado" de nuestra aplicación para indicar acciones exitosas. La elección del verde se basa en la familiaridad del usuario con este color, lo que permitirá que el usuario reconozca de inmediato que la acción ha tenido éxito.
+
+![](https://lh4.googleusercontent.com/FE4nfBzC44xeiUK_kcVTYmSyb2wqkzdwX1BwFQkDCkjtcL9f03p6roQxbGAMl1qptBk11N97iGqyVQIkhD9bppP8iHPIvguegHZ5RcnhTiqIprrjygPovWAQ7x2_jWDnel4z7TChIDPc5uvAtckCfoM)
+
+Colos estado: Amarillo (Advertenia de  una acción)
+
+Hemos seleccionado el color amarillo para esta categoría de estado con el propósito de advertir al usuario cuando está llevando a cabo una acción que podría tener repercusiones en sus actividades futuras.
+
+![](https://lh3.googleusercontent.com/kCGQBWAUiQgnbU0lGb58MfwWQcMJaC5KznZGSf-PTt1bWpe9cLXzM5aQxJKftOSPKo-sWu4ZbaX-YtH5qPIn_STjQudEq0Sd0_QkVO1XrEN5rwPbeLG0LY7ox1igcq5bwn0WKenwAhW1-RE3uzpv-9M)
+
+Color Estado: Gris (Botón o Acción deshabilitada)
+
+Hemos optado por utilizar el color gris para indicar al usuario que una acción o botón está deshabilitado, ya que requerirá completar otras acciones en el futuro para poder activarlos.
+
+**Spacing**
+
+Utilizaremos un espacio que sea una cantidad divisible por 8 píxeles para cada componente
+
+![](https://lh4.googleusercontent.com/bd2rSz8eWwN_W70RIEYtDoaHd7GgA3tGZ_pGbrkHCirO_yu3gZrgERADUIwE-yrzu7-qHnQW8rM58FTR7YR84RhhTehehHihGuEAZYYFSOS8KKYTvmUJ0lHcBP0niXTEkQXn2c1mPDhHjNY3iC7k8Gk)
+
+**Tono de lenguaje de comunicación y lenguaje aplicado**
+
+
+Implementaremos un lenguaje que sea formal, sereno y confiable, al mismo tiempo que transmita entusiasmo. Nuestra intención es reforzar la sensación de paz, tranquilidad y confianza para el usuario, y dejar claro que nuestra aplicación es una herramienta seria y efectiva para abordar sus necesidades y resolver sus problemas.
 
 **6.1.2. Web, Mobile & Devices Style Guidelines.** 
 
