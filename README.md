@@ -401,7 +401,7 @@ Perfil: Consumidores tecnológicos que ya han integrado dispositivos inteligente
 ### <a name="_ufnnqi9v9jn3"></a>	**2.2.2 Registro de entrevistas**
 **Entrevista 1:**
 **Andrea Huancas -** Estudiante de Derecho en la UCSUR 
-![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 007](https://github.com/user-attachments/assets/48cab406-8d86-4641-bb91-f08b002f92e8)
+[**Arq Emergentes LinkEntrevista Leonardo.mp4**]![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 007](https://github.com/user-attachments/assets/48cab406-8d86-4641-bb91-f08b002f92e8)
 
 
 **Entrevista 2:**
