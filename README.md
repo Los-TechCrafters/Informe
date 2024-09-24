@@ -1462,10 +1462,33 @@ El sistema de navegación de **Aegis Vision** ha sido diseñado para guiar de ma
 Este enfoque asegura que los usuarios puedan encontrar lo que buscan y realizar tareas críticas en pocos pasos, mejorando la experiencia general de uso.
 
 **6.3. Landing Page UI Design.** 
+## 6.3. Landing Page UI Design
+
+En esta sección se presentará nuestro mockup de nuestra landing page: [Ver prototipo en Figma](https://www.figma.com/design/8YTxnePQ7Fii1EGvwjqNWZ/Emergente---Landing-Page?node-id=0-1&t=VWsp5vjb59NmqF82-1)
 
 **6.3.1. Landing Page Wireframe.** 
+<br> En esta parte se visualiza como la pantalla principla del landing page con una seccion de borones que describe nuestro producto. <br>
+![](https://media.discordapp.net/attachments/1227123248030941219/1287974228540391485/image.png?ex=66f37ef9&is=66f22d79&hm=30fe0bdb9cc67a96bcb7c10456e3d1329fab6eaa1f6a7a70c32475423bdd4a60&=&format=webp&quality=lossless)
+
+En esta sección detalla los beneficios que brinda Aegis Vision <br>
+![](https://media.discordapp.net/attachments/1227123248030941219/1287975310276558880/image.png?ex=66f37ffb&is=66f22e7b&hm=1b7326286b866a73d283584f1052f5e685001b228ec38e4263b2cb18f0310bbd&=&format=webp&quality=lossless)
+
+<br>
+<p>En esta sección se muestran algunos testimonios de nuestros clientes satisfechos.</p>
+<img src="https://media.discordapp.net/attachments/1227123248030941219/1287976275889225812/image.png?ex=66f380e1&is=66f22f61&hm=66d5f48ba0d2879a11ee8d99217a2d14ea35202d580a53ff09293164c0d69490&=&format=webp&quality=lossless&width=535&height=411" alt="Testimonios">
 
 **6.3.2. Landing Page Mock-up.** 
+En esta sección se muestra como se verá nuestra landing page deplegada y visible para el público <br>
+![](https://media.discordapp.net/attachments/1227123248030941219/1287978144749457448/image.png?ex=66f3829f&is=66f2311f&hm=f6a8649b3b305fc5f3227f2690d3043b48ba7d99edeae13d26177cda922e6e7a&=&format=webp&quality=lossless&width=647&height=411)
+  <br>
+  En esta parte se muestra todos los beneficio que ofrece la aplicación garantizando su conformidad del cliente.  <br>
+  ![](https://media.discordapp.net/attachments/1227123248030941219/1287978530386350211/image.png?ex=66f382fb&is=66f2317b&hm=0bc660bd69a48711af38e484787dc1ed26e895f338a5953be543376a1433cd69&=&format=webp&quality=lossless)
+
+  <br>
+Se muestran algunos testimonios de nuestros usuarios que usaron la aplicación.
+<p style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/c3cbfae9-7fb5-4f03-b246-606a1618904b" style="max-width: 190%; height: auto;" alt="Testimonios">
+</p>
 
 **6.4. Applications UX/UI Design.** 
 
