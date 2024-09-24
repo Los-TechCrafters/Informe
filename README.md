@@ -1342,8 +1342,8 @@ Endpoints:
 
 ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 047](https://github.com/user-attachments/assets/0698c8dc-b7fc-46ac-a2fb-4fa4b712f886)
 
-**VI: Solution UX Design** 
 
+# <a name="_uwe0ben5wt2n"></a>**Capítulo V: Tactical-Level Software Design.**
 **6.1. Style Guidelines.** 
 
 **6.1.1. General Style Guidelines.**
