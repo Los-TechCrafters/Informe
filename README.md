@@ -35,8 +35,8 @@ Grupo 4
 
 |**Entregable** |**Fecha**|**Participantes** |**Observaciones**|
 | :-: | :-: | :-: | :-: |
-|TB1|06/09/2024|Todos los Integrantes||
-|||||
+|TB1|06/09/2024|Todos los Integrantes|Ninguna|
+|TTP1|24/09/2024|Todos los Integrantes|Ninguna|
 |||||
 
 
