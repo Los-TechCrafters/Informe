@@ -1427,6 +1427,15 @@ Utilizaremos un espacio que sea una cantidad divisible por 8 píxeles para cada 
 Implementaremos un lenguaje que sea formal, sereno y confiable, al mismo tiempo que transmita entusiasmo. Nuestra intención es reforzar la sensación de paz, tranquilidad y confianza para el usuario, y dejar claro que nuestra aplicación es una herramienta seria y efectiva para abordar sus necesidades y resolver sus problemas.
 
 **6.1.2. Web, Mobile & Devices Style Guidelines.** 
+Vamos a emplear un estilo de comunicación formal, tranquilo y de confianza, al mismo tiempo que incorporaremos un toque de entusiasmo. Nuestro objetivo principal es consolidar en el usuario una sensación de calma, serenidad y seguridad, mientras destacamos que nuestra aplicación es una solución seria y altamente eficaz para satisfacer sus requerimientos y solucionar sus desafíos.
+
+![](https://lh3.googleusercontent.com/mKqfXN0S3nXeDlThn9DYmDfUdN7nQT_hpiKhIrntU-RqwoBbCky6Cz-5i7rvmgr2efI6DZ70VGVsXAuJEEBVkAGqDktTupLlb_kVNh_zBd0EHC7gQSJz1anAkuj0gm2CxCRiqGEgbQWlzlgE3wYId3o)
+
+Optaremos por emplear el patrón de diseño en forma de "Z". Esto se debe a nuestra intención de guiar al usuario durante la navegación en nuestra página de inicio y aplicación web. Inicialmente, el usuario comenzará su experiencia viendo nuestro logotipo en la parte superior, antes de dirigirse hacia la derecha para encontrar una serie de opciones disponibles. Luego, el flujo de la página se desplazará verticalmente hacia abajo, permitiendo que el usuario explore el contenido general de nuestra página de inicio y aplicación. Finalmente, al llegar al final de la página, el usuario visualizará información adicional sobre nuestro startup y cómo ponerse en contacto con nosotros, dispuesta horizontalmente en el lado derecho.
+
+![](https://lh5.googleusercontent.com/lZNZDTnoQL5iSdx-GlXBT8f6aw6Y-3fa2KfGyw9325HVL32qohE_PlhAypqdRUYcqGUJRr5j-FdGKJpD78p83JO168mIyNUYbsbtL9aqsEF9E7rhiYtFO0e5loKMWuGJR_4POtrf9OtbU2ofNpLU9nU)
+
+Es importante destacar que el diseño incorporará una paleta de colores que resulten atractivos para el usuario, con la intención de evocar sensaciones de tranquilidad, confianza y un fuerte deseo de utilizar nuestra aplicación. Asimismo, los espacios y efectos visuales que se implementarán servirán para comunicar claramente el propósito y contenido de nuestra página de inicio y aplicación web, proporcionando al usuario una comprensión intuitiva de lo que ofrecemos.
 
 **6.2. Information Architecture.** 
 
