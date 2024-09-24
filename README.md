@@ -335,57 +335,46 @@ En **Aegis Vision**, buscamos posicionarnos como líderes en seguridad doméstic
 1. **Diferenciación mediante la Integración de RA**
 - **Estrategia**: Destacar nuestra característica única de RA que permite a los usuarios visualizar la disposición de cámaras y sensores en su hogar de manera interactiva y personalizada.
 - **Tácticas:**
+  - Campañas de Marketing Basadas en RA**: Desarrollaremos campañas publicitarias que muestren cómo nuestra RA facilita la planificación y optimización de la seguridad en el hogar.
 
-  `     `**- Campañas de Marketing Basadas en RA**: Desarrollaremos campañas publicitarias que
-
-  `       `muestren cómo nuestra RA facilita la planificación y optimización de la seguridad en 
-
-`                    `el hogar.
-
-`     `**- Enfoque en la Experiencia del Usuario:** Aseguraremos que la interfaz de RA sea
-
-`       `intuitiva y fácil de usar, posicionándose como un elemento central en nuestras 
-
-`       `demostraciones de producto.
+  - Enfoque en la Experiencia del Usuario:** Aseguraremos que la interfaz de RA sea intuitiva y fácil de usar, posicionándose como un elemento central en nuestras demostraciones de producto.
 
 1. **Capacidades Mejoradas de IA para Seguridad Predictiva**
-- ` `**Estrategia:** Aprovechar la IA no solo para la detección de movimiento, sino también para el análisis predictivo, anticipando posibles amenazas de seguridad.
+- **Estrategia:** Aprovechar la IA no solo para la detección de movimiento, sino también para el análisis predictivo, anticipando posibles amenazas de seguridad.
 - **Tácticas:**
 - **Entrenamiento de IA y Recopilación de Datos:** Continuamente mejoramos nuestra IA mediante la recopilación de datos anonimizados para anticipar y prevenir posibles brechas de seguridad.
   - **Contenido Educativo**: Proporcionaremos recursos que expliquen cómo nuestra IA supera a la competencia al anticipar riesgos de manera proactiva.
 
 1. **Flexibilidad en las Suscripciones**
 
-   `   `**- Estrategia**: Ofrecer planes de suscripción flexibles y transparentes que se adapten a diferentes necesidades de los usuarios, desde almacenamiento en la nube básico hasta funciones avanzadas de IA y RA.
+   **- Estrategia**: Ofrecer planes de suscripción flexibles y transparentes que se adapten a diferentes necesidades de los usuarios, desde almacenamiento en la nube básico hasta funciones avanzadas de IA y RA.
 
-   `   `**- Tácticas:**
+   **- Tácticas:**
 
-`     `- **Modelos de Suscripción Escalonados**: Desarrollaremos varios niveles de suscripción, incluyendo un nivel gratuito o de bajo costo que ofrezca funcionalidad básica, incentivando a los usuarios a actualizar a medida que perciben el valor de las funciones avanzadas.
+   **-Modelos de Suscripción Escalonados**: Desarrollaremos varios niveles de suscripción, incluyendo un nivel gratuito o de bajo costo que ofrezca funcionalidad básica, incentivando a los usuarios a actualizar a medida que perciben el valor de las funciones avanzadas.
 
-`     `**- Promociones y Descuentos:** Implementaremos promociones por tiempo limitado para nuevos usuarios y descuentos para suscripciones a largo plazo, aumentando la retención de clientes.
+   **- Promociones y Descuentos:** Implementaremos promociones por tiempo limitado para nuevos usuarios y descuentos para suscripciones a largo plazo, aumentando la retención de clientes.
 
-1. ` `**Foco** en la Ciberseguridad
+1. **Foco** en la Ciberseguridad
 
-   `   `- **Estrategia:** Posicionarnos como líderes en ciberseguridad dentro del mercado de seguridad doméstica, abordando las crecientes preocupaciones sobre la privacidad y protección de datos.
+**- Estrategia:** Posicionarnos como líderes en ciberseguridad dentro del mercado de seguridad doméstica, abordando las crecientes preocupaciones sobre la privacidad y protección de datos.
 
-   `   `- **Tácticas:**
+**- Tácticas:**
 
-`     `- **Certificaciones de Terceros**: Obtendremos y mostraremos prominentemente certificaciones de ciberseguridad de organizaciones reconocidas, construyendo confianza con nuestros clientes.
+**- Certificaciones de Terceros**: Obtendremos y mostraremos prominentemente certificaciones de ciberseguridad de organizaciones reconocidas, construyendo confianza con nuestros clientes.
 
-`     `- **Actualizaciones Regulares de Seguridad**: Proporcionaremos actualizaciones frecuentes de seguridad y comunicaremos estos esfuerzos claramente a los usuarios, destacando nuestro compromiso con la protección de sus datos.
+**- Actualizaciones Regulares de Seguridad**: Proporcionaremos actualizaciones frecuentes de seguridad y comunicaremos estos esfuerzos claramente a los usuarios, destacando nuestro compromiso con la protección de sus datos.
 
 1. **Construcción de Comunidad y Contenido Generado por los Usuarios**
 
-   `   `- **Estrategia**: Fomentar una comunidad en torno a Aegis Vision donde los usuarios puedan compartir sus experiencias, consejos y diseños de RA, creando un sentido de pertenencia y compromiso.
+**- Estrategia**: Fomentar una comunidad en torno a Aegis Vision donde los usuarios puedan compartir sus experiencias, consejos y diseños de RA, creando un sentido de pertenencia y compromiso.
 
-   `   `- **Tácticas**:
+**- Foros de Usuarios y Grupos en Redes Sociales**: Crearemos comunidades en línea donde los usuarios puedan interactuar, compartir sus configuraciones y proporcionar retroalimentación, fortaleciendo la lealtad del cliente.
 
-`     `- **Foros de Usuarios y Grupos en Redes Sociales**: Crearemos comunidades en línea donde los usuarios puedan interactuar, compartir sus configuraciones y proporcionar retroalimentación, fortaleciendo la lealtad del cliente.
-
-`     `- **Incentivar la Creación de Contenido**: Animaremos a los usuarios a crear y compartir contenido ofreciendo recompensas, como meses de suscripción gratuita o descuentos, por los mejores diseños de RA o consejos de seguridad.
+**- Incentivar la Creación de Contenido**: Animaremos a los usuarios a crear y compartir contenido ofreciendo recompensas, como meses de suscripción gratuita o descuentos, por los mejores diseños de RA o consejos de seguridad.
 
 ## <a name="_h3r5roug23ml"></a>**2.2. Entrevistas** 
-` 	`En este punto presentaremos los resultados de las entrevistas realizadas a los usuarios objetivos.
+En este punto presentaremos los resultados de las entrevistas realizadas a los usuarios objetivos.
 
 ### <a name="_buajxnrcoflj"></a>	**2.2.1 Diseño de entrevistas**
 
@@ -410,74 +399,41 @@ Perfil: Consumidores tecnológicos que ya han integrado dispositivos inteligente
 - ¿Cuáles son tus expectativas respecto a la privacidad y seguridad de los datos cuando usas dispositivos de IA en tu hogar?
 
 ### <a name="_ufnnqi9v9jn3"></a>	**2.2.2 Registro de entrevistas**
-`		`**Entrevista 1:**
-
+**Entrevista 1:**
+**Andrea Huancas -** Estudiante de Derecho en la UCSUR 
 ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 007](https://github.com/user-attachments/assets/48cab406-8d86-4641-bb91-f08b002f92e8)
-**Andrea Huancas -** Estudiante de Derecho en la UCSUR
 
-Arq Emergentes LinkEntrevista Leonardo.mp4
 
 **Entrevista 2:**
-
+**Angello Olortegui**
 ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 008](https://github.com/user-attachments/assets/186b7f1d-6a06-4eba-b924-26f3b82d7f54)
 
-**Angello Olortegui**
+
 
 [**Arq_Emergentes_Entrevista_Leonardo_Taype**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111363_upc_edu_pe/Ef_2C4r053lEqkT2CSnQVz0Bw4FW3DJvx-yWQWFocxKyLg?e=Ylnhoe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-
-
-
-
-
-
-
 **Entrevista 3:**
-
+**Esmeralda Aliaga**
 ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 009](https://github.com/user-attachments/assets/c2161881-4564-450e-b100-3922bd64618c)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`                `**Esmeralda Aliaga**
-
 **Entrevista 4:**
-
+**Leonel Alfaro Cumpa**
 ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 010](https://github.com/user-attachments/assets/d21e8465-1fac-4d89-ae83-2751bee8b2a7)
 
-**Leonel Alfaro Cumpa**
 
 [**Entrevista 4 - Segmento 1**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b312_upc_edu_pe/EWINiHDAx2RDgTmlEF2mwnQBXEToV_nCW-4aHDZCVSRMWw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=z9S7Ae)
 
 
-
-
 **
 
-
 ### <a name="_9dvahun2fo6r"></a>	**2.2.3 Análisis de entrevistas**
-`        `**Entrevista 1:**
+**Entrevista 1:**
 
 Andrea Huancas, una estudiante de Derecho de 27 años que reside en Independencia, Perú, valora la capacidad de monitorización en tiempo real en su hogar inteligente, destacando la importancia de cámaras y sensores. Sin embargo, señala dificultades en la integración entre dispositivos de diferentes marcas, lo que la lleva a desear una mayor centralización y simplicidad en su sistema de seguridad. Andrea también ve el potencial de la Realidad Aumentada para mejorar la gestión de la seguridad en su hogar, y aprecia la personalización de los sistemas, adaptándolos a su estilo de vida. Aunque reconoce la efectividad de la IA en la detección de amenazas, ha experimentado falsos positivos y espera mayor precisión. Prefiere recibir notificaciones en su teléfono con imágenes o videos en tiempo real y se muestra preocupada por la seguridad y privacidad de sus datos, destacando la importancia de la transparencia en su manejo.
 
-`	`**Entrevista 2:**
+**Entrevista 2:**
 
 Angello, vive en un hogar inteligente. Destaca la importancia de la integración y personalización de los sistemas de seguridad. Valora la posibilidad de controlar las cámaras y sensores de forma remota y en tiempo real. Para él, la Realidad Aumentada sería un avance significativo al facilitar la visualización de la disposición de los dispositivos de seguridad, permitiéndole ajustarlos de forma eficiente.
 
@@ -487,7 +443,7 @@ Este tipo de usuario tiene una inclinación por tecnologías emergentes como la 
 
 **Entrevista 3:**
 
-`	`Esmeralda Aliaga, una joven de 21 años que vive en Surco, valora la capacidad de automatización y control en su hogar inteligente. Resalta la importancia de contar con cámaras y sensores que le permitan monitorear su casa en tiempo real. Sin embargo, ha experimentado dificultades al integrar dispositivos de diferentes marcas, lo que la lleva a buscar una solución más centralizada y fácil de manejar. Esmeralda también se muestra interesada en el uso de la Realidad Aumentada para mejorar la gestión de la seguridad en su hogar, apreciando la capacidad de personalizar los sistemas según sus necesidades. Aunque reconoce los beneficios de la inteligencia artificial para la detección de amenazas, ha tenido problemas con falsos positivos y espera una mayor precisión. Prefiere recibir alertas en su teléfono, acompañadas de imágenes o videos en tiempo real, y le preocupa la privacidad de sus datos, enfatizando la importancia de la transparencia en su manejo.
+Esmeralda Aliaga, una joven de 21 años que vive en Surco, valora la capacidad de automatización y control en su hogar inteligente. Resalta la importancia de contar con cámaras y sensores que le permitan monitorear su casa en tiempo real. Sin embargo, ha experimentado dificultades al integrar dispositivos de diferentes marcas, lo que la lleva a buscar una solución más centralizada y fácil de manejar. Esmeralda también se muestra interesada en el uso de la Realidad Aumentada para mejorar la gestión de la seguridad en su hogar, apreciando la capacidad de personalizar los sistemas según sus necesidades. Aunque reconoce los beneficios de la inteligencia artificial para la detección de amenazas, ha tenido problemas con falsos positivos y espera una mayor precisión. Prefiere recibir alertas en su teléfono, acompañadas de imágenes o videos en tiempo real, y le preocupa la privacidad de sus datos, enfatizando la importancia de la transparencia en su manejo.
 
 **Entrevista 4:**
 
@@ -508,9 +464,6 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 011](https://github.com/user-attachments/assets/209add53-4e87-4206-89b3-4491fd5b0f78)
 ### <a name="_b7yq94wixmbb"></a>**	
 ### <a name="_6243ll1yk3mk"></a>**2.3.2 User task Matrix**
-
-
-
 
 
 
@@ -968,15 +921,6 @@ Este backlog contiene los factores clave que deben guiar las decisiones arquitec
    ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 020](https://github.com/user-attachments/assets/b987d25c-5695-49a0-9d6c-1a31576bafac)
 
 
-
-
-
-
-
-
-
-
-
 1. Notificaciones
 
    ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 021](https://github.com/user-attachments/assets/03c99ea5-5e40-4455-8b28-0361f6c3fb3f)
@@ -984,14 +928,6 @@ Este backlog contiene los factores clave que deben guiar las decisiones arquitec
 1. Visualización RA
 
    ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 022](https://github.com/user-attachments/assets/910e1804-24e1-4f93-9ac9-6c8b66ef26f2)
-
-
-
-
-
-
-
-
 
 
 1. Entrenamiento de IA
@@ -1022,8 +958,8 @@ Este backlog contiene los factores clave que deben guiar las decisiones arquitec
 
 ![Aspose Words 00d9a324-7786-4229-8307-f3d2f53facbd 028](https://github.com/user-attachments/assets/192743e4-c0dc-4762-ac7c-1fd3e907798e)
 
-<a name="_z7mqfkd1lit0"></a><a name="_fyc88ciro1mq"></a><a name="_5hzk202a2uid"></a><a name="_1bar82njh4ii"></a><a name="_j78ksa4yr9v4"></a><a name="_b6ixbo1enuqw"></a><a name="_om0s5bqjfozl"></a><a name="_i446ozauxct6"></a><a name="_1zc8d37ranj6"></a><a name="_mmw7kls2r5aw"></a><a name="_865av4qjmuzk"></a><a name="_dawoj74m8em2"></a><a name="_flmg6a6bg7sh"></a><a name="_xcrlxhq91wcp"></a><a name="_peus3pybb5sl"></a><a name="_sto4g2iwzxkl"></a>**Capítulo V: Tactical-Level Software Design.** 
-
+<a name="_z7mqfkd1lit0"></a><a name="_fyc88ciro1mq"></a><a name="_5hzk202a2uid"></a><a name="_1bar82njh4ii"></a><a name="_j78ksa4yr9v4"></a><a name="_b6ixbo1enuqw"></a><a name="_om0s5bqjfozl"></a><a name="_i446ozauxct6"></a><a name="_1zc8d37ranj6"></a><a name="_mmw7kls2r5aw"></a><a name="_865av4qjmuzk"></a><a name="_dawoj74m8em2"></a><a name="_flmg6a6bg7sh"></a><a name="_xcrlxhq91wcp"></a><a name="_peus3pybb5sl"></a><a name="_sto4g2iwzxkl">
+# <a name="_uwe0ben5wt2n"></a>**Capítulo V: Tactical-Level Software Design.** 
 ## <a name="_cf19uzi1ygmf"></a>**5.1. Bounded Context: IAM (Identity and Access Management)**
 ### <a name="_mz9ewfjhmssi"></a>**5.1.1. Domain Layer.** 
 ### En el Domain Layer, se representarán las reglas de negocio y el core del sistema para el contexto IAM. Las clases clave en esta capa incluye:
