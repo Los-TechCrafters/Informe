@@ -1429,33 +1429,25 @@ Se muestran algunos testimonios de nuestros usuarios que usaron la aplicación.
 **6.4. Applications UX/UI Design.** 
 
 **6.4.1. Applications Wireframes.** 
-
 Login Wireframe:
-
 ![](https://i.gyazo.com/17d911d7c416bdbba3f5122c10a5be6a.jpg)
 
 Registration Wireframe:
-
 ![](https://i.gyazo.com/3dea69bf846b11b87cdaf8a692b735df.jpg)
 
 Home Wireframe:
-
 ![](https://i.gyazo.com/d17c971af67595409261c2d2a57064c5.jpg)
 
 Alerts Wireframe:
-
 ![](https://i.gyazo.com/75951ba7ae238cc0adc2d28eed9ccab6.jpg)
 
 Cameras Wireframe:
-
 ![](https://i.gyazo.com/11e7e2c522b1580c249e7ec1db81e9de.jpg)
 
 Analytics Wireframe:
-
 ![](https://i.gyazo.com/53c948d3ffd3c4a088fae03df1827a31.jpg)
 
 **6.4.2. Applications Wireflow Diagrams.** 
-
 ![](https://i.gyazo.com/69660c463b620f1cd24924fe2f667d1c.png)
 
 ![](https://i.gyazo.com/f917f12866e9a401eebb1ce7b0ab3cf1.png)
@@ -1465,29 +1457,22 @@ Analytics Wireframe:
 ![](https://i.gyazo.com/dff2e5fa0cf604a54f198bb5371e9329.png)
 
 **6.4.2. Applications Mock-ups.** 
-
 Login Mock-up:
-
 ![](https://i.gyazo.com/1d942cf4924ad3efc9a325c51c2bc256.jpg)
 
 Registration Mock-up:
-
 ![](https://i.gyazo.com/7f300cfa37347f14853af9c754d4254d.jpg)
 
 Home Mock-up:
-
 ![](https://i.gyazo.com/9a4c2b6fc0333a438fbaf4817f2c0ef7.jpg)
 
 Alerts Mock-up:
-
 ![](https://i.gyazo.com/75cf38255597f3b08fd4b9dff535660c.jpg)
 
 Cameras Mock-up:
-
 ![](https://i.gyazo.com/28e2bba8433bd8ee0ee0ccea39b7847c.jpg)
 
 Analytics Mock-up:
-
 ![](https://i.gyazo.com/4e68cc97176516ed9280f7da7010bb4d.jpg)
 
 **6.4.3. Applications User Flow Diagrams.** 
