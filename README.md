@@ -1606,4 +1606,6 @@ Khan, M. N., & Begum, N. (2022). Python programming for intelligent systems: A p
 ## Anexos
 
 -Landingpage desplegada: [Aegie Vision](https://yordidg.github.io/AegieVision/)
+- Link de la organizacion en git hub: [Los TechCrafters en GitHub](https://github.com/orgs/Los-TechCrafters/repositories)
+
 
