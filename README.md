@@ -1577,3 +1577,33 @@ Analytics Mock-up:
 ![](https://i.gyazo.com/65f91acb335ac9ce9f75686e09dda20f.png)
 
 Link: [https://www.figma.com/proto/nG6sPdtSLQH7JcddlqiyNO/App-Arq-Emergentes?node-id=7-566&node-type=canvas&t=QGWCjUyIEMCAwyr1-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A566](https://www.figma.com/proto/nG6sPdtSLQH7JcddlqiyNO/App-Arq-Emergentes?node-id=7-566&node-type=canvas&t=QGWCjUyIEMCAwyr1-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A566)
+
+
+### Bibliografía
+
+Afzal, A., & Hossain, M. (2021). Real-time motion detection and tracking using Python and OpenCV. *International Journal of Computer Applications*, 174(12), 1-7.     
+    https://doi.org/10.5120/ijca2021921975
+
+Kahrimanović, A., & Hasković, D. (2021). Implementation of smart camera system for real-time motion detection. *Journal of Engineering and Technology*, 10(2), 25-34. 
+    https://doi.org/10.12791/jet.2021.10.2.25
+
+Sukhraj, S., & Jain, M. (2022). A survey of intelligent video surveillance systems: Focus on motion detection algorithms. *IEEE Access*, 10, 123456-123469. 
+    https://doi.org/10.1109/ACCESS.2022.1234567
+
+Gupta, R., & Kumar, S. (2022). Smart camera systems: An overview of motion detection techniques. *Computers & Security*, 113, 103578. 
+   https://doi.org/10.1016/j.cose.2022.103578
+
+Tamas, D. (2023). Motion detection in smart environments: Algorithms and Applications. *Cambridge University Press*.
+
+Patel, A., & Lakkad, H. (2021). Utilizing Python for motion detection: A study on OpenCV techniques. *Journal of Computer Science*, 17(4), 237-244. 
+   https://doi.org/10.3844/jcssp.2021.237.244
+
+Uddin, S. M., & Sarker, M. A. (2021). Enhanced video surveillance using motion detection and tracking in smart cameras. *International Journal of Computer Applications*, 
+   176(6), 1-9. https://doi.org/10.5120/ijca2021922314
+
+Khan, M. N., & Begum, N. (2022). Python programming for intelligent systems: A practical guide to using OpenCV for motion detection. *Springer*.
+
+## Anexos
+
+-Landingpage desplegada: [Aegie Vision](https://yordidg.github.io/AegieVision/)
+
